@@ -1,3 +1,7 @@
+![Linux](https://img.shields.io/badge/OS-Linux-yellow?style=flat-square)
+![GitHub](https://img.shields.io/badge/Repo-GitHub-lightgrey?style=flat-square)
+![Markdown](https://img.shields.io/badge/Docs-Markdown-blue?style=flat-square)
+
 # Linux Administration Labs
 Hands‑on portfolio demonstrating essential Linux system administration skills through structured labs and documented evidence.
 # Linux Administration Labs
